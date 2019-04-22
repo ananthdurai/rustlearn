@@ -1,0 +1,8 @@
+[package]
+name = "rustlearn"
+version = "0.1.0"
+authors = ["Ananth Packkildurai <apackkildurai@slack-corp.com>"]
+edition = "2018"
+[dependencies]
+csv = "1.0.7"
+rand = "0.6.5"
